@@ -6,7 +6,6 @@ A petite HTML and Tailwind CSS website for groceries delivered in just 15 minute
 # Preview
 
 "Dive into convenience! 🚀 [Click here](https://ugppkumara.github.io/Grocify/) to explore Grocify for swift and adorable grocery shopping. 🍎✨ Simplify your shopping experience with #GrocifyJoy! 🛒🌟"
-# ScreenShot
 
 # Screenshot
 
